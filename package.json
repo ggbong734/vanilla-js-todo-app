@@ -1,0 +1,16 @@
+{
+  "name": "vanilla-js-todo",
+  "version": "1.0.0",
+  "description": "vanilla js to do app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel serve ./src/index.html",
+    "build": "parcel build ./src/index.html"
+  },
+  "author": "Gerry Bong/Leigh Halliday",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^2.0.0-beta.2"
+  }
+}
